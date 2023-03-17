@@ -4,7 +4,7 @@
   "icons": [
    
   ],
-  "start_url": "/react",
+  "start_url": "https://kghary.github.io/react/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
